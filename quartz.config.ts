@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "learn-compsci.github.io/Intro-To-Coding-With-C",
+    baseUrl: "learn-compsci.github.io/Intro-to-Coding-With-C",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
