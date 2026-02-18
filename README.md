@@ -4,3 +4,4 @@ This is the main repo that hosts the files to generate the site at: https://lear
 
 Instructions on how to build locally here: https://quartz.jzhao.xyz/build
 
+Instructions on how to author content here: https://quartz.jzhao.xyz/authoring-content
